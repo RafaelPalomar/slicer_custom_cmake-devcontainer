@@ -11,6 +11,7 @@ on:
     paths-ignore:
       - '**/README.md'
 env:
+
     IMAGE_NAME: slicer_custom_cmake-devcontainer
     IMAGE_TAGS: latest
     IMAGE_REGISTRY: quay.io/rafael_palomar
