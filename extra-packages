@@ -3,9 +3,9 @@ git
 git-lfs
 subversion
 build-essential
-cmake
 ninja-build
-cmake-curses-gui
+sudo
+wget
 
 # Other tools
 fd-find
@@ -24,6 +24,7 @@ libxt-dev
 libqt5opengl5-dev
 
 # Other essential packages for software development
+binutils-gold
 libssl-dev
 libcurl4-openssl-dev
 
