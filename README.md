@@ -2,7 +2,7 @@
 
 ## Description
 
-`slicer_custom_cmake-devcontainer` is a containerized development environment designed to streamline 3D Slicer development. This setup leverages Distrobox to offer a flexible, containerized environment, making it ideal for use with immutable Linux distributions. It is based on Debian 12 and includes all necessary dependencies and tools for 3D Slicer development, such as CMake, Qt, and VTK, alongside other utilities like git, fd, and shellcheck. This project facilitates a consistent and isolated development environment, ensuring that developers can work in a reproducible setting. It has been tested extensively to provide an optimal setup for 3D Slicer development workflows.
+`slicer_custom_cmake-devcontainer` is a containerized development environment designed to streamline 3D Slicer development. This setup leverages Distrobox to offer a flexible, containerized environment, making it ideal for use with immutable Linux distributions. It is based on Ubuntu 22.04 and includes all necessary dependencies and tools for 3D Slicer development, such as CMake, Qt, and VTK, alongside other utilities like git, fd, and shellcheck. This project facilitates a consistent and isolated development environment, ensuring that developers can work in a reproducible setting. It has been tested extensively to provide an optimal setup for 3D Slicer development workflows.
 
 ## Building the Image
 
